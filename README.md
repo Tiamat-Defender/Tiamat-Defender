@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Embedded projects
 - 📫 How to reach me vx.heavens on discord 
 - 😄 Pronouns: Any
-- ⚡ Fun fact: I use arch btw
+- ⚡ Fun fact: I dont use arch btw
 
 <!---
 Tiamat-Defender/Tiamat-Defender is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
