@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning FreeRTOS
 - 💞️ I’m looking to collaborate on Embedded projects
 - 📫 How to reach me vx.heavens on discord 
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: Any
 - ⚡ Fun fact: I dont use arch btw
 
 <!---
