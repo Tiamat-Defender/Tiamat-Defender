@@ -21,7 +21,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ---
 [![](https://visitcount.itsvg.in/api?id=Tiamat-Defender&icon=0&color=0)](https://visitcount.itsvg.in)
 
-#My word to new hardware/firmware engineers
+My word to new hardware/firmware engineers
+
 “I struggled with motivation in high school, but I found purpose through engineering.” 
 -DR Green 2025
 
