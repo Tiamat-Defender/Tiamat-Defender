@@ -24,6 +24,5 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 My word to new hardware/firmware engineers
 
 “I struggled with motivation in high school, but I found purpose through engineering.” 
--DR Green 2025
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
